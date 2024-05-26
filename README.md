@@ -7,15 +7,15 @@
 https://www.kaggle.com/code/heykam/sentiment-analysis-product-reviews
 
 ## Model Selection
-90.87% - BernoulliNB
-92.31% - ComplementNB
-92.79% - MultinomialNB
-73.08% - KNeighborsClassifier
-75.48% - DecisionTreeClassifier
-90.38% - RandomForestClassifier
-91.83% - LogisticRegression
-93.27% - MLPClassifier
-86.06% - AdaBoostClassifier
+- 90.87% - BernoulliNB
+- 92.31% - ComplementNB
+- 92.79% - MultinomialNB
+- 73.08% - KNeighborsClassifier
+- 75.48% - DecisionTreeClassifier
+- 90.38% - RandomForestClassifier
+- 91.83% - LogisticRegression
+- 93.27% - MLPClassifier
+- 86.06% - AdaBoostClassifier
 
 Model terbaik adalah MLPClassifier dengan akurasi 93.27%
 
