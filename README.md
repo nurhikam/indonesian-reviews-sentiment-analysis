@@ -1,4 +1,4 @@
-# movie-reviews-sentiment-analysis
+# Sentiment analysis Indonesian Marketplace Product Reviews - NLP 
 
 ## Datasets
 [Indonesian Marketplace Product Reviews](https://www.kaggle.com/datasets/taqiyyaghazi/indonesian-marketplace-product-reviews/data)
